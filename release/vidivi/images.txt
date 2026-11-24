@@ -1,5 +1,5 @@
-mosipdev/partner-management-service:release-1.3.x 1.3.0
-mosipdev/policy-management-service:release-1.3.x 1.3.0
-mosipdev/apitest-pms:release-1.3.x 1.3.0
-mosipdev/pmp-ui-v2:release-1.3.x 1.3.0
-mosipdev/uitest-pmp-v2:release-1.3.x 1.3.0
+mosipdev/esignet:develop-go develop-go
+mosipdev/oidc-ui:develop-go develop-go
+mosipdev/mock-identity-system:develop develop-go
+mosipdev/mock-relying-party-ui:develop-go develop-go
+mosipdev/mock-relying-party-service:develop-go develop-go
